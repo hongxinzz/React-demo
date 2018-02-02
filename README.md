@@ -11,11 +11,11 @@
 支持在线发评论和记录当前 <br />发布时间以及发布人<br />
 在鼠标移入到列表时，删除按钮出现，<br />
 并且点击删除此条目。<br />
-
+![(https://github.com/hongxinzz/React-demo/blob/master/message.gif)]
 -仿百度搜索下拉<br />
 点击搜索，获取到Jsonp,重新渲染列表<br />
 方向盘 上下,会改变当前条目的选中状态<br />
-
+![(https://github.com/hongxinzz/React-demo/blob/master/baidu.gif)]
 
 Bug： 缺少选中条目时搜索框对应文字  <br />以及选中的条目选中回车直接去百度页面的问题<br />
 可以自行去改进和研究
