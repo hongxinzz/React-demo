@@ -1,0 +1,52 @@
+.prowrap{
+    margin:200px;
+    padding: 20px;
+    background-color: #e7e7e7;
+}
+.pro{
+    width:200px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+.pro img{
+    float:left;
+    width:64px;
+    height: 64px;
+    margin:18px;
+    border-radius: 50%;
+}
+.pro p{
+    float:left;
+    width:100px;
+    margin-top: 18px;
+    font-size: 14px;
+}
+#example .ant-tabs{
+    background-color: #fff;
+}
+#example .ant-tabs-bar{
+    width:200px;
+}
+#example .ant-tabs-tab{
+    text-align: left;
+}
+.boxwrap{
+    padding:20px;
+}
+.boxwrap .ant-input{
+    width:200px;
+}
+.boxwrap p{
+    margin-bottom: 20px;
+}
+.changeName{
+    margin-left: -200px;
+}
+.list-group-item button{
+    display: none;
+    margin-left: 15px
+}
+.list-group-item:hover button{
+    display: inline-block;
+}
